@@ -1,0 +1,4 @@
+S Rebegea Dragos 22 M 10 9 8 7
+W Mihaita Mihai 30 F 200
+S Palade Ulia 21 F 8 9 4 10 10 10 10 10
+P Bunicul BUny 79 M 20
